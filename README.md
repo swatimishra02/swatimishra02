@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on research on image segmentation
-- 🌱 I’m currently learning python,c,c++
+- 🔭 I am currently learning web scraping and front end development
+- 🌱I have worked as a research intern at IIT-Gandhinagar and IIIT Hyderabad
 - 📫 How to reach me: swatimishra0209@gmail.com
 - 😄 Pronouns: she/her
 
